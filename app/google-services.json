@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "57046633546",
+    "project_id": "project-maestro-e9d90",
+    "storage_bucket": "project-maestro-e9d90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57046633546:android:694dcf91b16f3e35586ab3",
+        "android_client_info": {
+          "package_name": "com.cosmiccodecraft.projectmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57046633546-hu3locf0uacj8l6rqanu0fhu2sv916r2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2XDQBStkWZ35rXW6Q12T5UJarBDQiU6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57046633546-hu3locf0uacj8l6rqanu0fhu2sv916r2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
